@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-define('ROOT_URL', 'http://localhost:100/Blog/');
+define('ROOT_URL', 'http://localhost/Blog/');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
